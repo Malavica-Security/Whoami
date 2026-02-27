@@ -1,1 +1,1 @@
-# malavica.git.io
+# malavica.github.io
